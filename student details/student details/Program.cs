@@ -12,7 +12,7 @@ namespace student_details
         }
             static void Main(string[] args)
             {
-                Console.WriteLine("Learning Structures!");
+                   Console.WriteLine("Learning Structures!");
                 Person p1;
                 p1.Name = "Anjali";
                 p1.course_name_ID = 2;
