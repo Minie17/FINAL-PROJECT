@@ -13,7 +13,8 @@ namespace days
             int firstday = (int)Days.Mon;
             int lastday = (int)Days.Sun;
 
-            Console.WriteLine("Mon {0}", firstday);
+           
+    Console.WriteLine("Mon {0}", firstday);
             Console.WriteLine("sun {0}", lastday);
 
 
