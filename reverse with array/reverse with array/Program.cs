@@ -13,7 +13,7 @@ namespace reverse_with_array
             {
                 Console.Write(i + " ");
             }
-            Console.WriteLine();
+               Console.WriteLine();
             Array.Reverse(temp);
             Console.Write("Reversed Array: ");
             foreach (int i in temp)
