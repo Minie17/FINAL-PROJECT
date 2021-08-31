@@ -16,7 +16,7 @@ namespace palindrome_2
                 bool bool1 = inputStr.Equals(r, StringComparison.OrdinalIgnoreCase);
                 if (bool1 == true)
                 {
-                    Console.WriteLine("This string " + inputStr + " is a Palindrome!");
+                   Console.WriteLine("This string " + inputStr + " is a Palindrome!");
                 }
                 else
                 {
