@@ -18,5 +18,5 @@ namespace nested_loop_5___5_4
             Console.ReadLine();
         }
     }
-    }
+}
 
