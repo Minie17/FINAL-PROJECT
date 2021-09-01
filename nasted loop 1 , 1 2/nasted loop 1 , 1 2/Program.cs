@@ -11,7 +11,7 @@ namespace nasted_loop_1___1_2
             {
                 for (y = 1; y <= x; y++)
                 {
-                    Console.Write(y);
+                  Console.Write(y);
                 }
                 Console.WriteLine();
             }
