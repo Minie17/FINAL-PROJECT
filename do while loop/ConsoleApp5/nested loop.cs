@@ -19,9 +19,11 @@ namespace ConsoleApp5
                     }
                     Console.WriteLine();
                 }
+                Console.WriteLine();
             }
-        }
-        Console.WriteLine()
+            Console.WriteLine();
         }
     }
 }
+
+
