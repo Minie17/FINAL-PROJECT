@@ -10,7 +10,7 @@ namespace calaculater_with_swith_case
                 Convert.ToChar(Console.ReadLine());
                 Console.WriteLine("-------Calculater--------");
                 Console.WriteLine("----------------------------");
-                Console.WriteLine("Enter [number 1] [+ - * /] [number 2]");
+                Console.WriteLine("Enter [num1] [+ - * /] [num 2]");
                 
             switch (op)
                 { 
