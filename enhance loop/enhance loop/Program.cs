@@ -15,7 +15,7 @@ namespace enhance_loop
                 myArray[1] = "bb";
                 myArray[2] = "cc";
 
-                Console.WriteLine("Elements of the array: ");
+                 Console.WriteLine("Elements of the array: ");
                 foreach (string val in myArray)         // Each element in myArray is a string
                 {
                     Console.WriteLine(val);
