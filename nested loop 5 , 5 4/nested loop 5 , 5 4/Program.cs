@@ -11,7 +11,7 @@ namespace nested_loop_5___5_4
             {
                 for (y = x; y <= 5; y++)
                 {
-                    Console.Write(y);
+                      Console.Write(y);
                 }
                 Console.WriteLine();
             }
