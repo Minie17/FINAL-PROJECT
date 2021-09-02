@@ -2,11 +2,6 @@
 
 namespace Inheritance_demo
 {
-    class Program
-    {
-        static void Main(string[] args)
-        { }
-       
             public class User
             { 
             public string  firstName;
@@ -41,13 +36,12 @@ namespace Inheritance_demo
                 Details d = new Details();
                 d.firstName = "Chaitrali";
                 d.Age= 23;
-                d.GetUserInfo("Hyderabad");
+                d.GetUserInfo("Nagpur");
                 d.GetAge();
-                Console.WriteLine("\nPress Any Key to Exit..");
+                Console.WriteLine("Press Any Key to Exit..");
                 Console.ReadLine();
             }
         }
     }
-}
 
    
