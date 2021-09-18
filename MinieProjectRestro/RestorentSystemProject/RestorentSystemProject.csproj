@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="RestroConnection">
+      <HintPath>..\RestroConnection\bin\Debug\netcoreapp3.1\RestroConnection.dll</HintPath>
+    </Reference>
+    <Reference Include="RestroFunction">
+      <HintPath>..\RestroFunction\bin\Debug\netcoreapp3.1\RestroFunction.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
