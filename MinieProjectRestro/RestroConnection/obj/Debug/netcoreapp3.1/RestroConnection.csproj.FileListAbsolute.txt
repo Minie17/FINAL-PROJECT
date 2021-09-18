@@ -1,0 +1,10 @@
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroConnection\bin\Debug\netcoreapp3.1\RestroConnection.deps.json
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroConnection\bin\Debug\netcoreapp3.1\RestroConnection.dll
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroConnection\bin\Debug\netcoreapp3.1\RestroConnection.pdb
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroConnection\obj\Debug\netcoreapp3.1\RestroConnection.csproj.AssemblyReference.cache
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroConnection\obj\Debug\netcoreapp3.1\RestroConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroConnection\obj\Debug\netcoreapp3.1\RestroConnection.AssemblyInfoInputs.cache
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroConnection\obj\Debug\netcoreapp3.1\RestroConnection.AssemblyInfo.cs
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroConnection\obj\Debug\netcoreapp3.1\RestroConnection.csproj.CoreCompileInputs.cache
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroConnection\obj\Debug\netcoreapp3.1\RestroConnection.dll
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroConnection\obj\Debug\netcoreapp3.1\RestroConnection.pdb

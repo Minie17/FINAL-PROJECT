@@ -1,0 +1,10 @@
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroFunction\bin\Debug\netcoreapp3.1\RestroFunction.deps.json
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroFunction\bin\Debug\netcoreapp3.1\RestroFunction.dll
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroFunction\bin\Debug\netcoreapp3.1\RestroFunction.pdb
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroFunction\obj\Debug\netcoreapp3.1\RestroFunction.csproj.AssemblyReference.cache
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroFunction\obj\Debug\netcoreapp3.1\RestroFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroFunction\obj\Debug\netcoreapp3.1\RestroFunction.AssemblyInfoInputs.cache
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroFunction\obj\Debug\netcoreapp3.1\RestroFunction.AssemblyInfo.cs
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroFunction\obj\Debug\netcoreapp3.1\RestroFunction.csproj.CoreCompileInputs.cache
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroFunction\obj\Debug\netcoreapp3.1\RestroFunction.dll
+C:\Users\PARTH\source\repos\MinieProjectRestro\RestroFunction\obj\Debug\netcoreapp3.1\RestroFunction.pdb
